@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+ul,li{
+    margin: 0 20px;
+    padding: 10px;
+    display: flex;
+    align-items:flex-start;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(128, 202, 190);
+    color: rgb(131, 7, 32);
+}
+.container{
+    background-color: rgb(234, 241, 243);
+}
